@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>9a97bc90-e91c-43d1-8804-965ad10cad78.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\9a97bc90-e91c-43d1-8804-965ad10cad78.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>150</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Arveles</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>45</xmin>
+			<ymin>122</ymin>
+			<xmax>72</xmax>
+			<ymax>150</ymax>
+		</bndbox>
+	</object>
+</annotation>

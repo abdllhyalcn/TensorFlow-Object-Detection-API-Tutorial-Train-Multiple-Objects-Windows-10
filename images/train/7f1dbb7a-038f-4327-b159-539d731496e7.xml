@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>7f1dbb7a-038f-4327-b159-539d731496e7.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\7f1dbb7a-038f-4327-b159-539d731496e7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>105</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Majezik</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>37</xmin>
+			<ymin>76</ymin>
+			<xmax>50</xmax>
+			<ymax>101</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>5e9dafd7-99ca-4f79-84da-c010715b35d7.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\5e9dafd7-99ca-4f79-84da-c010715b35d7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>112</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Yuvarlak Buskopan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>52</xmin>
+			<ymin>90</ymin>
+			<xmax>62</xmax>
+			<ymax>99</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>47b6de6c-062d-4f91-a22c-a9ea49b78506.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\test\47b6de6c-062d-4f91-a22c-a9ea49b78506.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>150</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Arveles</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>49</xmin>
+			<ymin>102</ymin>
+			<xmax>78</xmax>
+			<ymax>131</ymax>
+		</bndbox>
+	</object>
+</annotation>

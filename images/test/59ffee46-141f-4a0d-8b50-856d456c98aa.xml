@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>59ffee46-141f-4a0d-8b50-856d456c98aa.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\test\59ffee46-141f-4a0d-8b50-856d456c98aa.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>150</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Yuvarlak Buskopan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>61</xmin>
+			<ymin>116</ymin>
+			<xmax>89</xmax>
+			<ymax>145</ymax>
+		</bndbox>
+	</object>
+</annotation>

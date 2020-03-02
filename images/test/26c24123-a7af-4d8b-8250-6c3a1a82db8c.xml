@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>26c24123-a7af-4d8b-8250-6c3a1a82db8c.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\test\26c24123-a7af-4d8b-8250-6c3a1a82db8c.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>112</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Apranax</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>50</xmin>
+			<ymin>83</ymin>
+			<xmax>72</xmax>
+			<ymax>121</ymax>
+		</bndbox>
+	</object>
+</annotation>

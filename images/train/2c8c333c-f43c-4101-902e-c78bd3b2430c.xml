@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>2c8c333c-f43c-4101-902e-c78bd3b2430c.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\2c8c333c-f43c-4101-902e-c78bd3b2430c.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>114</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Apranax</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>54</xmin>
+			<ymin>40</ymin>
+			<xmax>85</xmax>
+			<ymax>79</ymax>
+		</bndbox>
+	</object>
+</annotation>

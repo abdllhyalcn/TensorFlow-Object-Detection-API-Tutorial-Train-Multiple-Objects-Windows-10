@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>234f4737-be08-4426-aeb8-bf88a4c23323.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\test\234f4737-be08-4426-aeb8-bf88a4c23323.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>150</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Parol</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>64</xmin>
+			<ymin>110</ymin>
+			<xmax>91</xmax>
+			<ymax>137</ymax>
+		</bndbox>
+	</object>
+</annotation>

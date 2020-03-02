@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>7529abb0-5cc3-4d7f-9e4a-04becb39df45.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\test\7529abb0-5cc3-4d7f-9e4a-04becb39df45.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>112</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nurofen</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>43</xmin>
+			<ymin>88</ymin>
+			<xmax>69</xmax>
+			<ymax>115</ymax>
+		</bndbox>
+	</object>
+</annotation>

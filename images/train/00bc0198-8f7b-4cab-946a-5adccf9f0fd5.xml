@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>00bc0198-8f7b-4cab-946a-5adccf9f0fd5.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\00bc0198-8f7b-4cab-946a-5adccf9f0fd5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>112</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dolorex</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>50</xmin>
+			<ymin>93</ymin>
+			<xmax>61</xmax>
+			<ymax>105</ymax>
+		</bndbox>
+	</object>
+</annotation>

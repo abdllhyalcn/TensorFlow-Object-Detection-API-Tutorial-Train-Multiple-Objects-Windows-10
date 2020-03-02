@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>8ff953e4-f733-4c46-8d20-0c579d2984dc.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\8ff953e4-f733-4c46-8d20-0c579d2984dc.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>96</width>
+		<height>128</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Parol</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>49</xmin>
+			<ymin>62</ymin>
+			<xmax>61</xmax>
+			<ymax>74</ymax>
+		</bndbox>
+	</object>
+</annotation>

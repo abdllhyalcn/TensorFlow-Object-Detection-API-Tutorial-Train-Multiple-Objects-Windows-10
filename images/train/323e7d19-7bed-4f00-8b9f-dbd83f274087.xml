@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>323e7d19-7bed-4f00-8b9f-dbd83f274087.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\323e7d19-7bed-4f00-8b9f-dbd83f274087.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>150</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Centik Buskopan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>20</xmin>
+			<ymin>167</ymin>
+			<xmax>39</xmax>
+			<ymax>189</ymax>
+		</bndbox>
+	</object>
+</annotation>

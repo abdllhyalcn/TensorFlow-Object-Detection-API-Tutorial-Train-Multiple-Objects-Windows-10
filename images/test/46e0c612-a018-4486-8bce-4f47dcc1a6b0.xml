@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>46e0c612-a018-4486-8bce-4f47dcc1a6b0.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\test\46e0c612-a018-4486-8bce-4f47dcc1a6b0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>200</width>
+		<height>150</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dolorex</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>141</xmin>
+			<ymin>82</ymin>
+			<xmax>159</xmax>
+			<ymax>102</ymax>
+		</bndbox>
+	</object>
+</annotation>

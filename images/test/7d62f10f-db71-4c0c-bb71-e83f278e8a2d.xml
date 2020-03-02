@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>7d62f10f-db71-4c0c-bb71-e83f278e8a2d.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\test\7d62f10f-db71-4c0c-bb71-e83f278e8a2d.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>150</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Aferin</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>59</xmin>
+			<ymin>87</ymin>
+			<xmax>96</xmax>
+			<ymax>109</ymax>
+		</bndbox>
+	</object>
+</annotation>

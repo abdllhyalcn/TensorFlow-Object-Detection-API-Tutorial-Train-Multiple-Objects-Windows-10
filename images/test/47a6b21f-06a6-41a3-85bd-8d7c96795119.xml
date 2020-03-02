@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>47a6b21f-06a6-41a3-85bd-8d7c96795119.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\test\47a6b21f-06a6-41a3-85bd-8d7c96795119.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>150</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Majezik</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>58</xmin>
+			<ymin>106</ymin>
+			<xmax>89</xmax>
+			<ymax>129</ymax>
+		</bndbox>
+	</object>
+</annotation>

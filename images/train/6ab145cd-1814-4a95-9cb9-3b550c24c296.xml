@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>6ab145cd-1814-4a95-9cb9-3b550c24c296.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\6ab145cd-1814-4a95-9cb9-3b550c24c296.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>150</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nurofen</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>64</xmin>
+			<ymin>76</ymin>
+			<xmax>82</xmax>
+			<ymax>102</ymax>
+		</bndbox>
+	</object>
+</annotation>

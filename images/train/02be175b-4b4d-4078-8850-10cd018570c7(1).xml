@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>02be175b-4b4d-4078-8850-10cd018570c7(1).jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\02be175b-4b4d-4078-8850-10cd018570c7(1).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>112</width>
+		<height>88</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Aferin</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>31</xmin>
+			<ymin>1</ymin>
+			<xmax>77</xmax>
+			<ymax>27</ymax>
+		</bndbox>
+	</object>
+</annotation>
